@@ -9,4 +9,4 @@ if ( tmp > 0 ) == True:
 else:
     result = "even"
 
-print(f"{output_prefix}: number {input_number} is {result}, since division remainer is {tmp}.")
+print(f"{output_prefix}: number {input_number} is {result}, since division remainder is {tmp}.")
